@@ -1,7 +1,7 @@
 export const owner = {
   name: 'Kiramat Ullah',
-  role: 'Backend Engineer / Full Stack .NET Engineer',
-  headline: 'Backend Engineer | .NET 8 / .NET 10 | PostgreSQL | Microservices | AI-Assisted Delivery',
+  role: 'Full Stack .NET Engineer',
+  headline: 'Full Stack .NET Engineer | ASP.NET Core | React | Angular | PostgreSQL | Microservices | AI-Assisted Delivery',
   location: 'Islamabad, Pakistan',
   email: 'kiramatdev@gmail.com',
   phone: '+92 314 515 6620',
@@ -37,8 +37,8 @@ export const stats = [
   },
   {
     value: '.NET 8 / .NET 10',
-    label: 'Backend',
-    detail: 'Modern ASP.NET Core systems',
+    label: 'Full Stack',
+    detail: 'Modern ASP.NET Core, React and Angular systems',
   },
   {
     value: 'Enterprise + AI',
@@ -82,8 +82,8 @@ export const expertise = [
 
 export const capabilities = [
   {
-    title: 'Backend Architecture',
-    text: 'Designing maintainable services, API boundaries, business logic and data-access workflows.',
+    title: 'Full-Stack Architecture',
+    text: 'Designing maintainable application flows across APIs, business logic, data access and user-facing clients.',
   },
   {
     title: 'Database Performance',

@@ -8,7 +8,7 @@ export function TechStack() {
         <SectionHeader
           eyebrow="Tech Stack"
           title="A categorized ecosystem, not a logo wall."
-          text="The stack is organized by how the technologies are used in backend, data, security, UI, desktop and AI workflows."
+          text="The stack is organized by how the technologies are used across full-stack .NET delivery, data, security, UI, desktop and AI workflows."
         />
 
         <div className="stack-grid">

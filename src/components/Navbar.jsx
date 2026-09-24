@@ -41,7 +41,7 @@ export function Navbar() {
           <span className="brand-mark">KU</span>
           <span>
             <strong>Kiramat Ullah</strong>
-            <small>Backend .NET Engineer</small>
+            <small>Full Stack .NET Engineer</small>
           </span>
         </a>
 

@@ -7,8 +7,8 @@ export function Experience() {
       <div className="container">
         <SectionHeader
           eyebrow="Experience"
-          title="Progression from full-stack delivery to enterprise-scale backend systems."
-          text="A practical path through ASP.NET Core, Angular, React, WPF, databases and production system reliability."
+          title="Progression through full-stack .NET delivery and enterprise-scale systems."
+          text="A practical path through ASP.NET Core, Angular, React, WPF, databases, APIs and production system reliability."
         />
 
         <div className="timeline">

@@ -7,8 +7,8 @@ export function About() {
       <div className="container about-grid">
         <SectionHeader
           eyebrow="About"
-          title="Backend ownership for secure, data-intensive systems."
-          text="Kiramat is a backend-focused Full Stack .NET Engineer with practical experience across APIs, databases, security, frontend integration, desktop systems, background processing and AI-enabled workflows."
+          title="Full-stack delivery for secure, data-intensive systems."
+          text="Kiramat is a Full Stack .NET Engineer with practical experience across ASP.NET Core APIs, React, Angular, databases, security, desktop systems, background processing and AI-enabled workflows."
         />
 
         <div className="about-identity surface reveal">
@@ -26,14 +26,15 @@ export function About() {
           </figure>
           <div className="about-copy">
             <p>
-              I work where application behavior, data correctness and reliability meet: ASP.NET Core
-              services, business logic, relational schemas, query optimization, authentication and
-              production debugging. My work includes contribution to a government-level biometric
-              platform handling more than 40 million biometric records.
+              I work across the full application surface where user workflows, API behavior, data
+              correctness and reliability meet: ASP.NET Core services, React and Angular integrations,
+              business logic, relational schemas, query optimization, authentication and production
+              debugging. My work includes contribution to a government-level biometric platform
+              handling more than 40 million biometric records.
             </p>
             <p>
               This portfolio is organized around real engineering responsibilities: scalable
-              backend services, database performance, secure access, large-scale processing, desktop
+              application services, database performance, secure access, large-scale processing, desktop
               integrations and an AI video analysis platform built with .NET 10, React, Python FastAPI
               and Hangfire.
             </p>

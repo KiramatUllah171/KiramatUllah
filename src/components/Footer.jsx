@@ -8,7 +8,7 @@ export function Footer() {
       <div className="container footer-grid">
         <div>
           <strong>{owner.name}</strong>
-          <p>Backend / Full Stack .NET Engineer</p>
+          <p>Full Stack .NET Engineer</p>
         </div>
         <div className="footer-links">
           <a href={owner.linkedin} rel="noreferrer" target="_blank">

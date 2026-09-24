@@ -8,7 +8,7 @@ export function Hero() {
       <div className="hero-glow" aria-hidden="true" />
       <div className="container hero-grid">
         <div className="hero-copy reveal">
-          <p className="eyebrow">Backend-focused Full Stack Engineer</p>
+          <p className="eyebrow">Full Stack .NET Engineer</p>
           <h1>Building secure, scalable and high-performance software systems.</h1>
           <p className="hero-lede">
             {owner.headline}. 3+ years across ASP.NET Core, PostgreSQL, microservices, React, Angular,
@@ -55,7 +55,7 @@ export function Hero() {
           </div>
           <div className="visual-panel visual-panel-primary">
             <div className="panel-topline">
-              <span>Enterprise Backend</span>
+              <span>Full-Stack System</span>
               <Icon name="layers" />
             </div>
             <div className="architecture-map">

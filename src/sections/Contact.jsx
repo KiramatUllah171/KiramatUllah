@@ -10,8 +10,8 @@ export function Contact() {
           <p className="eyebrow">Contact</p>
           <h2>Let&apos;s build something reliable.</h2>
           <p>
-            Available for conversations around backend engineering, secure APIs, database-heavy
-            systems, .NET delivery, desktop integrations and AI-enabled application workflows.
+            Available for conversations around full-stack .NET engineering, secure APIs, React and
+            Angular applications, database-heavy systems, desktop integrations and AI-enabled workflows.
           </p>
           <div className="hero-actions">
             <ButtonLink href={`mailto:${owner.email}`} icon="mail">

@@ -10,8 +10,8 @@ export function Expertise() {
       <div className="container">
         <SectionHeader
           eyebrow="Core Expertise"
-          title="Engineering breadth with backend depth."
-          text="The emphasis is on maintainable services, strong data foundations, secure access patterns and reliable production workflows."
+          title="Full-stack engineering breadth with strong system depth."
+          text="The emphasis is on maintainable .NET services, polished frontend integrations, strong data foundations, secure access patterns and reliable production workflows."
         />
 
         <div className="expertise-grid">
