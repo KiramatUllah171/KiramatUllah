@@ -6,7 +6,7 @@ export const owner = {
   email: 'kiramatdev@gmail.com',
   phone: '+92 314 515 6620',
   linkedin: 'https://www.linkedin.com/in/kiramat-ullah-3a304223b',
-  cvPath: '/cv/Kiramat-Ullah-CV.pdf',
+  cvPath: '/cv/Kiramat_Ullah-CV.pdf',
   cvAvailable: true,
   profileImage: '/cv/portfolio%20image.png',
 }

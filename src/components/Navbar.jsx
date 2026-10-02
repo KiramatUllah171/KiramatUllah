@@ -79,7 +79,7 @@ export function Navbar() {
             </ButtonLink>
             <ButtonLink
               disabled={!owner.cvAvailable}
-              download="Kiramat-Ullah-CV.pdf"
+              download="Kiramat_Ullah-CV.pdf"
               href={owner.cvPath}
               icon="download"
               variant="secondary"
